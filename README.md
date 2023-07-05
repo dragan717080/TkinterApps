@@ -6,11 +6,11 @@ Feel free to explore and use these projects as references or starting points for
 
 ## Projects
 
-1. Sudoku
+## 1. Sudoku
 
 A Sudoku application that provides Sudoku puzzles of various difficulties.
 
-2. Continents Economy Risk Indexes
+## 2. Continents Economy Risk Indexes
 
 Application that provides insight about economy risk to continents according to Global Economy data. Click on the map to see each continent's economy risk index. Index is composed of four parameters:
 

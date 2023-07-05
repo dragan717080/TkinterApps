@@ -15,5 +15,3 @@ class Utils(ABC):
         first_letters = [word[0] for word in words]
         result = ''.join(first_letters)
         return result if lower is not None else result.lower()
-
-

@@ -21,6 +21,6 @@ Application that provides insight about economy risk to continents according to 
 
 ## Usage
 
-1. Clone or download the desired project repository from the provided links.
+1. Clone or download this repository.
 2. Open the project in your preferred Python IDE or editor.
 3. Install any necessary dependencies `pip install -r requirements.txt`

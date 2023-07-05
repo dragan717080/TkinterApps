@@ -1,0 +1,38 @@
+{
+  "Asia": {
+    "x_min": 181,
+    "x_max": 270,
+    "y_min": 10,
+    "y_max": 77
+  },
+  "Europe": {
+    "x_min": 130,
+    "x_max": 175,
+    "y_min": 12,
+    "y_max": 37
+  },
+  "Africa": {
+    "x_min": 124,
+    "x_max": 168,
+    "y_min": 43,
+    "y_max": 68
+  },
+  "South America": {
+    "x_min": 70,
+    "x_max": 107,
+    "y_min": 64,
+    "y_max": 117
+  },
+  "North America": {
+    "x_min": 24,
+    "x_max": 94,
+    "y_min": 8,
+    "y_max": 63
+  },
+  "Oceania": {
+    "x_min": 232,
+    "x_max": 280,
+    "y_min": 79,
+    "y_max": 111
+  }
+}

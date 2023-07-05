@@ -12,13 +12,12 @@ A Sudoku application that provides Sudoku puzzles of various difficulties.
 
 2. Continents Economy Risk Indexes
 
-Application that provides insight about economy risk to continents according to
-Global Economy data. Click on the map to see each continent's economy risk index. Index is composed of four parameters:
+Application that provides insight about economy risk to continents according to Global Economy data. Click on the map to see each continent's economy risk index. Index is composed of four parameters:
 
--Fragile State Index
--Factionalized Elites Index
--Military Spending Percentage Index
--Oil reserves index
+- Fragile State Index
+- Factionalized Elites Index
+- Military Spending Percentage Index
+- Oil reserves index
 
 ## Usage
 

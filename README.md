@@ -19,6 +19,26 @@ Application that provides insight about economy risk to continents according to 
 - Military Spending Percentage Index
 - Oil reserves index
 
+## 3. Calculator
+
+A robust and user-friendly application that provides accurate calculations with a visually appealing interface
+
+- exponents
+- PI
+- factorial
+
+## 4. Piano
+
+An elegant piano application
+
+## 5. Dictionary Lookup 
+
+A robust app that looks up into Merriam Webster Dictionary for a chosen word, and plays the sound for that word
+
+Guide
+- Get API key from <a href="https://dictionaryapi.com/">Merriam Webster website
+- Put your API key in .env file for example `MERRIAM-WEBSTER_API_KEY=YOUR_API_KEY`
+
 ## Usage
 
 1. Clone or download this repository.

@@ -1,7 +1,4 @@
 from tkinter import *
-from PIL import ImageTk, Image
-from db_models import Continent
-from utils import Utils
 
 class BaseApp(Tk):
     def __init__(self):

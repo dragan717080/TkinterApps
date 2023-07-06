@@ -18,10 +18,8 @@ class EconomyStatsApp(BaseApp):
         self.label_name = Label()
         self.label_name.pack(padx=21, anchor='center')
         self.label_name['text'] = 'Click on continent to get its indexes'
-        self.label_fsi = Label()
-        self.label_fei = Label()
-        self.label_mspi = Label()
-        self.label_ori = Label()
+        for label_name in ['fsi', 'fei', 'mspi', 'ori']:
+            setattr(self, f'label_{label_name}', Label())
 
     def get_continent(self, x, y):
         coordinates = Utils.read_json_file('continents')
